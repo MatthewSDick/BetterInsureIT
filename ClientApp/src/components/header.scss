@@ -1,0 +1,31 @@
+.header {
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header img {
+  height: 15vh;
+}
+
+.header ul {
+  list-style: none;
+}
+
+.header-right {
+  display: flex;
+  flex-direction: column;
+}
+
+.header-top-menu {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  background-color: yellow;
+}
+.header-bottom-menu {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  background-color: pink;
+}

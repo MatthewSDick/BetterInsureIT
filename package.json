@@ -1,4 +1,7 @@
 {
   "name": "BetterInsureIt",
-  "private": "true"
+  "private": "true",
+  "dependencies": {
+    "react-player": "^2.4.0"
+  }
 }
