@@ -38,7 +38,7 @@ export class NavMenu extends Component {
         >
           <Container>
             <NavbarBrand tag={Link} to="/">
-              BetterInsureIt
+              BetterInsureIt - LOGO
             </NavbarBrand>
             <NavbarToggler onClick={this.toggleNavbar} className="mr-2" />
             <Collapse
@@ -47,7 +47,7 @@ export class NavMenu extends Component {
               navbar
             >
               <ul className="navbar-nav flex-grow">
-                <NavItem>
+                {/* <NavItem>
                   <NavLink tag={Link} className="text-dark" to="/">
                     Home
                   </NavLink>
@@ -61,7 +61,7 @@ export class NavMenu extends Component {
                   <NavLink tag={Link} className="text-dark" to="/typescript">
                     Typescript
                   </NavLink>
-                </NavItem>
+                </NavItem> */}
               </ul>
             </Collapse>
           </Container>
