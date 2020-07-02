@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import partners from './partners.scss'
-import humana from '../images/humana.png'
+import humana from '../images/Humana.png'
 
 const Partners = () => {
   return (
