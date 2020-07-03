@@ -1,3 +1,33 @@
 .partners {
-  background-color: aqua;
+  // background-color: aqua;
+  margin: 1rem;
+}
+
+.partners button {
+  border-width: 2px;
+  border-color: lightgrey;
+  background-color: white;
+  border-style: solid;
+  border-radius: 1, 4;
+}
+
+.partners-list {
+  display: flex;
+  flex: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.partner {
+  height: 10vh;
+  width: auto;
+}
+
+.partner-image {
+  width: 5vw;
+  height: auto;
+}
+
+.h4 {
+  text-align: center;
 }

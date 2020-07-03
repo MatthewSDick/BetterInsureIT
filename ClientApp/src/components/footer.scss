@@ -1,3 +1,63 @@
 .footer {
-  background-color: darkgray;
+  // background-color: darkgray;
+  margin: 1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border-color: black;
+  border-style: solid;
+  padding: 1rem;
+}
+
+.social-icon {
+  height: auto;
+  width: 3vw;
+}
+
+.footer-logo {
+  width: 20vw;
+}
+
+// .footer-left {
+//   display: flex;
+//   flex-direction: column;
+// }
+
+.social {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.footer h3 {
+  text-align: center;
+}
+
+.testimony {
+  margin-left: 3rem;
+  // background-color: blue;
+}
+
+.testimony-item {
+  display: flex;
+  flex-direction: row;
+}
+
+.testimony-pic {
+  height: 5rem;
+  width: 5rem;
+  margin-right: 1rem;
+}
+
+p {
+  margin: 0;
+}
+
+ol.carousel-indicators {
+  margin-top: 1rem;
+  margin-bottom: 0rem;
+}
+
+carousel-control-prev-icon {
+  color: black;
 }

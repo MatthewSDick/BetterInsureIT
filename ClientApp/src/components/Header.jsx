@@ -12,7 +12,7 @@ const Header = () => {
         </div>
         <div className="header-right">
           <div className="header-top-menu">
-            <ul>
+            <ul className="header-top-items">
               <li>
                 <p>About Us</p>
               </li>
@@ -28,7 +28,7 @@ const Header = () => {
             </ul>
           </div>
           <div className="header-bottom-menu">
-            <ul>
+            <ul className="header-bottom-items">
               <li>
                 <button>Individuals & Families</button>
               </li>
