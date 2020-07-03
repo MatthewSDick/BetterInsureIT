@@ -14,37 +14,54 @@ const Header = () => {
           <div className="header-top-menu">
             <ul className="header-top-items">
               <li>
-                <p>About Us</p>
+                <button className="header-top-items-button">
+                  <p>About Us</p>
+                </button>
               </li>
               <li>
-                <p>Join Us</p>
+                <button className="header-top-items-button">
+                  <p>Join Us</p>
+                </button>
               </li>
               <li>
-                <p>Contact Us</p>
+                <button className="header-top-items-button">
+                  <p>Contact Us</p>
+                </button>
               </li>
               <li>
-                <p>Contests & Blogs</p>
+                <button className="header-top-items-button">
+                  <p>Contests & Blogs</p>
+                </button>
               </li>
             </ul>
           </div>
           <div className="header-bottom-menu">
             <ul className="header-bottom-items">
               <li>
-                <button>Individuals & Families</button>
+                <button className="header-bottom-items-button">
+                  Individuals & Families
+                </button>
               </li>
               <li>
-                <button>Business Owners</button>
+                <button className="header-bottom-items-button">
+                  Business Owners
+                </button>
               </li>
               <li>
-                <button>Turning 65</button>
+                <button className="header-bottom-items-button">
+                  Turning 65 +
+                </button>
               </li>
               <li>
-                <button>Planning & Guidance</button>
+                <button className="header-bottom-items-button">
+                  Planning & Guidance
+                </button>
               </li>
             </ul>
           </div>
         </div>
       </div>
+      <div className="div-line"></div>
     </>
   )
 }
