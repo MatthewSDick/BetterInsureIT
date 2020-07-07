@@ -11,22 +11,23 @@ const Studies = () => {
         <div className="movies">
           <ReactPlayer
             className="movie"
-            url="https://www.youtube.com/watch?v=YeaWpr8umZc&t=63s"
+            url="https://www.youtube.com/watch?v=uq4Hyod5agc"
           />
           <ReactPlayer
             className="movie"
-            url="https://www.youtube.com/watch?v=IMeain2cvBM"
+            url="https://www.youtube.com/watch?v=lR862Vzd8_A"
           />
           <ReactPlayer
             className="movie"
-            url="https://www.youtube.com/watch?v=vKSb_79haK4"
+            url="https://www.youtube.com/watch?v=rS8zM5ELxaY"
           />
-          <ReactPlayer
-            className="movie"
-            url="https://www.youtube.com/watch?v=V6SfEIoEHY0"
-          />
+          {/* <ReactPlayer
+              className="movie"
+              url="https://www.youtube.com/watch?v=V6SfEIoEHY0"
+            /> */}
         </div>
       </div>
+      <div className="div-line"></div>
     </>
   )
 }

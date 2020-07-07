@@ -7,19 +7,38 @@
 
 .agent-pic {
   height: auto;
-  width: 25vh;
+  width: 45vh;
+  border-style: solid;
+  border-width: 1px;
 }
 
 .agent-info {
   text-align: center;
+  // background-color: blue;
+  padding: 0.5rem 0rem 0.5rem 0rem;
 }
 
 .hero-right {
   display: flex;
   flex-direction: column;
   margin-left: 2rem;
+  padding: 1rem;
 }
 
 h2 {
   text-align: center;
+  color: #8d0000;
+}
+
+.agent-info h4 {
+  color: #8d0000;
+}
+
+.div-line {
+  margin: 1rem 1rem 1rem 1rem;
+  height: 0px;
+  // width: 90%;
+  background-color: #8d0000;
+  padding: 1px 1rem 1px 1rem;
+  margin-left: 2rem;
 }

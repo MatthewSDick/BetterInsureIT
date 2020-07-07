@@ -141,6 +141,9 @@ const Footer = () => {
           </div>
         </div>
       </div>
+      <div>
+        <p className="copyright">&copy; 2020 BetterInsureIt.com</p>
+      </div>
     </>
   )
 }

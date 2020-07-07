@@ -4,9 +4,10 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  border-color: black;
-  border-style: solid;
+  // border-color: black;
+  // border-style: solid;
   padding: 1rem;
+  margin-top: 2rem;
 }
 
 .social-icon {
@@ -60,4 +61,9 @@ ol.carousel-indicators {
 
 carousel-control-prev-icon {
   color: black;
+}
+
+.copyright {
+  text-align: center;
+  padding-bottom: 1rem;
 }
