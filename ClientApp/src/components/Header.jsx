@@ -66,7 +66,7 @@ const Header = () => {
       </div>
       <div className="div-line"></div>
 
-      <div class="navbar">
+      {/* <div class="navbar">
         <a href="#home">Home</a>
         <a href="#news">News</a>
         <div class="dropdown">
@@ -80,7 +80,7 @@ const Header = () => {
             <a href="#">Link 3</a>
           </div>
         </div>
-      </div>
+      </div> */}
     </>
   )
 }
