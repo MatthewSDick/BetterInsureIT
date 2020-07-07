@@ -22,38 +22,29 @@ const Hero = () => {
           </div>
           <div>
             <p>
-              Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-              accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-              quae ab illo inventore veritatis et quasi architecto beatae vitae
-              dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit
-              aspernatur aut odit aut fugit, sed quia consequuntur magni dolores
-              eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam
-              est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci
-              velit, sed quia non numquam eius modi tempora incidunt ut labore
-              et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima
-              veniam, quis nostrum exercitationem ullam corporis suscipit
-              laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem
-              vel eum iure reprehenderit qui in ea voluptate velit esse quam
-              nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo
-              voluptas nulla pariatur.
+              Michael Gonzales has always had a passion for serving and helping
+              others become the best/healthiest versions of themselves. He first
+              began this passion in the active duty Air Force. Fourteen years
+              later Michael transitioned to the Air Force Reserve and is
+              currently assigned to MacDill AFB, Tampa, FL. When not in uniform,
+              Michael co-owns a nationally licensed Health, Life & Disability
+              Insurance brokerage in St. Petersburg, FL. Additionally, he is
+              also a certified personal trainer & nutritionist with 17+ years of
+              active experience. Furthermore, being a father to an amazing
+              daughter helps him empathize with other parents when it comes to
+              making important family decisions, especially decisions about
+              family health insurance. Appointed by the best names in insurance,
+              Michael customizes private insurance products for healthy
+              professionals, families & small business owners.{' '}
+              <b>
+                His goal is to help healthy individuals and families take
+                advantage of the new healthcare changes this year and help them
+                transition from their "Unaffordable Care Act Plan" or from
+                having no insurance at all, to a much more sensible and
+                affordable option.
+              </b>
             </p>
             <hr></hr>
-            <p>
-              At vero eos et accusamus et iusto odio dignissimos ducimus qui
-              blanditiis praesentium voluptatum deleniti atque corrupti quos
-              dolores et quas molestias excepturi sint occaecati cupiditate non
-              provident, similique sunt in culpa qui officia deserunt mollitia
-              animi, id est laborum et dolorum fuga. Et harum quidem rerum
-              facilis est et expedita distinctio. Nam libero tempore, cum soluta
-              nobis est eligendi optio cumque nihil impedit quo minus id quod
-              maxime placeat facere possimus, omnis voluptas assumenda est,
-              omnis dolor repellendus. Temporibus autem quibusdam et aut
-              officiis debitis aut rerum necessitatibus saepe eveniet ut et
-              voluptates repudiandae sint et molestiae non recusandae. Itaque
-              earum rerum hic tenetur a sapiente delectus, ut aut reiciendis
-              voluptatibus maiores alias consequatur aut perferendis doloribus
-              asperiores repellat.
-            </p>
           </div>
         </div>
       </div>
