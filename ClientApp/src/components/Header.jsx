@@ -15,7 +15,7 @@ const Header = () => {
             <ul className="header-top-items">
               <li>
                 <button className="header-top-items-button">
-                  <p>About Us</p>
+                  <p>Meet the team</p>
                 </button>
               </li>
               <li>

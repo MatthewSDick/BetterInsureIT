@@ -12,7 +12,7 @@ const Hero = () => {
             <img className="agent-pic" src={michael} />
           </div>
           <div className="agent-info">
-            <h3>Michael Gonzalez, Owner</h3>
+            <h3>Michael Gonzales, Owner</h3>
             <h4>🇺🇸 Air Force Veteran 🇺🇸</h4>
           </div>
         </div>
