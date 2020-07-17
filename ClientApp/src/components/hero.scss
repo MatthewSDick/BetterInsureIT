@@ -1,13 +1,13 @@
 .hero {
-  // background-color: blue;
+  background-color: #0a2463;
   margin: 1rem;
   display: flex;
   flex-direction: row;
 }
 
-.agent-pic {
+.family-pic {
   height: auto;
-  width: 45vh;
+  width: 75vh;
   border-style: solid;
   border-width: 1px;
 }
@@ -27,7 +27,15 @@
 
 h2 {
   text-align: center;
-  color: #8d0000;
+  color: #ffffff;
+}
+
+p {
+  color: #ffffff;
+}
+
+.hero-text {
+  margin: 1rem;
 }
 
 .agent-info h4 {
@@ -41,4 +49,11 @@ h2 {
   background-color: #8d0000;
   padding: 1px 1rem 1px 1rem;
   margin-left: 2rem;
+}
+
+.hero-buttons {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
 }
