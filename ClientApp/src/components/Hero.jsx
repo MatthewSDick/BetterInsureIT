@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import hero from './hero.scss'
-import michael from '../images/Michael.png'
+import family_pic from '../images/family.jpeg'
 
 const Hero = () => {
   return (
@@ -9,41 +9,43 @@ const Hero = () => {
       <div className="hero">
         <div className="hero-left">
           <div>
-            <img className="agent-pic" src={michael} />
+            <h2>Life is precious</h2>
           </div>
-          <div className="agent-info">
-            <h3>Michael Gonzalez, Owner</h3>
-            <h4>🇺🇸 Air Force Veteran 🇺🇸</h4>
+          <div className="hero-text">
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+              eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim
+              diam vulputate ut pharetra sit amet. Natoque penatibus et magnis
+              dis parturient montes nascetur ridiculus. Lorem donec massa sapien
+              faucibus et. Morbi tristique senectus et netus et. Dui ut ornare
+              lectus sit amet est. A scelerisque purus semper eget duis at.
+              Aliquam purus sit amet luctus. Iaculis at erat pellentesque
+              adipiscing commodo. Malesuada pellentesque elit eget gravida cum.
+              Velit dignissim sodales ut eu sem. Purus ut faucibus pulvinar
+              elementum integer.
+            </p>
+            <p>
+              Congue nisi vitae suscipit tellus. Massa tincidunt dui ut ornare
+              lectus sit amet est. Sagittis id consectetur purus ut faucibus
+              pulvinar. Ut sem nulla pharetra diam sit. Tortor condimentum
+              lacinia quis vel. Ullamcorper morbi tincidunt ornare massa.
+              Pulvinar elementum integer enim neque volutpat. Lobortis
+              scelerisque fermentum dui faucibus in ornare. Faucibus a
+              pellentesque sit amet porttitor eget dolor morbi. Pellentesque
+              dignissim enim sit amet venenatis. Risus at ultrices mi tempus
+              imperdiet nulla malesuada.
+            </p>
+          </div>
+          <div className="hero-buttons">
+            <button>About US</button>
+            <button>Join US</button>
           </div>
         </div>
         <div className="hero-right">
           <div>
-            <h2>Life is precious</h2>
+            <img className="family-pic" src={family_pic} />
           </div>
           <div>
-            <p>
-              Michael Gonzales has always had a passion for serving and helping
-              others become the best/healthiest versions of themselves. He first
-              began this passion in the active duty Air Force. Fourteen years
-              later Michael transitioned to the Air Force Reserve and is
-              currently assigned to MacDill AFB, Tampa, FL. When not in uniform,
-              Michael co-owns a nationally licensed Health, Life & Disability
-              Insurance brokerage in St. Petersburg, FL. Additionally, he is
-              also a certified personal trainer & nutritionist with 17+ years of
-              active experience. Furthermore, being a father to an amazing
-              daughter helps him empathize with other parents when it comes to
-              making important family decisions, especially decisions about
-              family health insurance. Appointed by the best names in insurance,
-              Michael customizes private insurance products for healthy
-              professionals, families & small business owners.{' '}
-              <b>
-                His goal is to help healthy individuals and families take
-                advantage of the new healthcare changes this year and help them
-                transition from their "Unaffordable Care Act Plan" or from
-                having no insurance at all, to a much more sensible and
-                affordable option.
-              </b>
-            </p>
             <hr></hr>
           </div>
         </div>
