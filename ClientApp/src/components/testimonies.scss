@@ -14,7 +14,7 @@
 
 h1 {
   text-align: center;
-  color: #ffffff;
+  color: black;
 }
 
 .div-line {
@@ -24,4 +24,16 @@ h1 {
   background-color: #8d0000;
   padding: 1px 1rem 1px 1rem;
   margin-left: 2rem;
+}
+
+.testimony {
+  width: 50%;
+}
+
+.testimony-item {
+  background-color: #e5e5e5;
+}
+
+.testimony-text p {
+  color: black;
 }
