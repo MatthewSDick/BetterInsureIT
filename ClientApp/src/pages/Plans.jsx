@@ -8,8 +8,6 @@ export default function Plans() {
     <>
       <Header />
       <CustomerPlans></CustomerPlans>
-      {/* div to contain the main content*/}
-      {/* component called to fill out the menu on the left and the content for each heading on the left.  */}
       <Footer />
     </>
   )
