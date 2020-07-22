@@ -16,7 +16,7 @@ const Hero = () => {
             ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
             aliquip ex ea commodo consequat.
           </p>
-          <button>Button 1</button>
+          <button className="summary-button">Individuals & Families</button>
         </div>
         <div className="panel-section">
           <button className="summary-image"></button>
@@ -26,7 +26,7 @@ const Hero = () => {
             ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
             aliquip ex ea commodo consequat.
           </p>
-          <button>Button 1</button>
+          <button className="summary-button">Business Owners</button>
         </div>
         <div className="panel-section">
           <button className="summary-image"></button>
@@ -36,7 +36,7 @@ const Hero = () => {
             ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
             aliquip ex ea commodo consequat.
           </p>
-          <button>Button 1</button>
+          <button className="summary-button">Turning 65 +</button>
         </div>
         <div className="panel-section">
           <button className="summary-image"></button>
@@ -46,7 +46,7 @@ const Hero = () => {
             ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
             aliquip ex ea commodo consequat.
           </p>
-          <button>Button 1</button>
+          <button className="summary-button">Planning & Guidance</button>
         </div>
       </div>
       {/* </div> */}
