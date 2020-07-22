@@ -9,6 +9,7 @@ const CustomerPlans = () => {
     <>
       <div className="wrapper">
         <h1>Individuals and Families</h1>
+        <h2>Life Insurance</h2>
         <div className="plan-content">
           <aside>
             <SubPlans />
