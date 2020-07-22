@@ -27,7 +27,7 @@ const Studies = () => {
             /> */}
         </div>
       </div>
-      <div className="div-line"></div>
+      {/* <div className="div-line"></div> */}
     </>
   )
 }
