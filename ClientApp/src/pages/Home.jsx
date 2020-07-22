@@ -6,12 +6,14 @@ import Studies from '../components/Studies'
 import Partners from '../components/Partners'
 import Footer from '../components/Footer'
 import Testimonies from '../components/Testimonies'
+import SummaryMenu from '../components/SummaryMenu'
 
 export function Home() {
   return (
     <>
       <Header />
       <Hero />
+      <SummaryMenu />
       <Studies />
       <Testimonies />
       <Partners />

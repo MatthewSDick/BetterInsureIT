@@ -1,0 +1,23 @@
+.summary {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 1rem;
+}
+
+.panel-section {
+  // background-color: yellow;
+  display: flex;
+  flex-direction: column;
+  padding: 3rem;
+  p {
+    color: black;
+  }
+}
+
+.summary-image {
+  background-color: lightgray;
+  border: none;
+  padding: 110px;
+  border-radius: 50%;
+}
