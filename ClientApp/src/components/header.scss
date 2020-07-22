@@ -5,7 +5,8 @@
 }
 
 .header img {
-  height: 15vh;
+  max-width: 35vw;
+  height: auto;
 }
 
 .header ul {
@@ -35,12 +36,13 @@
 }
 
 .header-top-items-button {
-  // background-color: white;
-  // border: none;
-  // margin-left: 1rem;
+  border: none;
+  margin-left: 1rem;
   background-color: white;
   border: none;
-  color: black;
+  p {
+    color: black;
+  }
   padding: 16px 32px;
   text-align: center;
   font-size: 16px;
