@@ -47,6 +47,54 @@ const Footer = () => {
             </img>
           </div>
         </div>
+        <div className="footer-center">
+          <ul className="footer-center-items">
+            <li>
+              <button className="footer-center-items-button">
+                <p>Meet the team</p>
+              </button>
+            </li>
+            <li>
+              <button className="footer-center-items-button">
+                <p>Join Us</p>
+              </button>
+            </li>
+            <li>
+              <button className="footer-center-items-button">
+                <p>Contact Us</p>
+              </button>
+            </li>
+            <li>
+              <button className="footer-center-items-button">
+                <p>Contests & Blogs</p>
+              </button>
+            </li>
+          </ul>
+        </div>
+        <div className="footer-right">
+          <ul className="footer-right-items">
+            <li>
+              <button className="footer-right-items-button">
+                <p>Individuals and Families</p>
+              </button>
+            </li>
+            <li>
+              <button className="footer-right-items-button">
+                <p>Business Owners</p>
+              </button>
+            </li>
+            <li>
+              <button className="footer-right-items-button">
+                <p>Turning 65 +</p>
+              </button>
+            </li>
+            <li>
+              <button className="footer-right-items-button">
+                <p>Planning and Guidance</p>
+              </button>
+            </li>
+          </ul>
+        </div>
       </div>
       <div>
         <p className="copyright">&copy; 2020 BetterInsureIt.com</p>

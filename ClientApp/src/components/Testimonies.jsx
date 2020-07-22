@@ -30,6 +30,15 @@ const Testimonies = () => {
                     Eligendi non quis exercitationem culpa nesciunt nihil aut
                     nostrum explicabo reprehenderit ab temporibus asperiores on
                     quis culpa nesciunt quasi cupiditate. Voluptatum ducimus
+                    voluptates voluptas? Lorem ipsum dolor sit amet, consectetur
+                    adipisicing elit. Eligendi non quis exercitationem culpa
+                    nesciunt nihil aut nostrum explicabo reprehenderit ab
+                    temporibus asperiores on quis culpa nesciunt quasi
+                    cupiditate. Voluptatum ducimus voluptates voluptas? Lorem
+                    ipsum dolor sit amet, consectetur adipisicing elit. Eligendi
+                    non quis exercitationem culpa nesciunt nihil aut nostrum
+                    explicabo reprehenderit ab temporibus asperiores on quis
+                    culpa nesciunt quasi cupiditate. Voluptatum ducimus
                     voluptates voluptas?
                   </p>
                 </div>
@@ -52,6 +61,10 @@ const Testimonies = () => {
                     Eligendi non quis exercitationem culpa nesciunt nihil aut
                     nostrum explicabo reprehenderit ab temporibus asperiores on
                     quis culpa nesciunt quasi cupiditate. Voluptatum ducimus
+                    voluptates voluptas? reprehenderit ab temporibus asperiores
+                    on quis culpa nesciunt quasi cupiditate. Voluptatum ducimus
+                    voluptates voluptas? reprehenderit ab temporibus asperiores
+                    on quis culpa nesciunt quasi cupiditate. Voluptatum ducimus
                     voluptates voluptas?
                   </p>
                 </div>
@@ -74,7 +87,11 @@ const Testimonies = () => {
                     Eligendi non quis exercitationem culpa nesciunt nihil aut
                     nostrum explicabo reprehenderit ab temporibus asperiores on
                     quis culpa nesciunt quasi cupiditate. Voluptatum ducimus
-                    voluptates voluptas?
+                    voluptates voluptas? Lorem ipsum dolor sit amet, consectetur
+                    adipisicing elit. Eligendi non quis exercitationem culpa
+                    nesciunt nihil aut nostrum explicabo reprehenderit ab
+                    temporibus asperiores on quis culpa nesciunt quasi
+                    cupiditate. Voluptatum ducimus voluptates voluptas?
                   </p>
                 </div>
               </div>

@@ -1,5 +1,5 @@
 .footer {
-  // background-color: darkgray;
+  background-color: #1e1b18;
   margin: 1rem;
   display: flex;
   flex-direction: row;
@@ -8,6 +8,7 @@
   // border-style: solid;
   padding: 1rem;
   margin-top: 2rem;
+  padding-right: 10rem;
 }
 
 .social-icon {
@@ -17,6 +18,7 @@
 
 .footer-logo {
   width: 20vw;
+  background-color: white;
 }
 
 // .footer-left {
@@ -34,36 +36,29 @@
   text-align: center;
 }
 
-.testimony {
-  margin-left: 3rem;
-  // background-color: blue;
-}
-
-.testimony-item {
-  display: flex;
-  flex-direction: row;
-}
-
-.testimony-pic {
-  height: 5rem;
-  width: 5rem;
-  margin-right: 1rem;
-}
-
-p {
-  margin: 0;
-}
-
-ol.carousel-indicators {
-  margin-top: 1rem;
-  margin-bottom: 0rem;
-}
-
-carousel-control-prev-icon {
-  color: black;
-}
-
 .copyright {
   text-align: center;
   padding-bottom: 1rem;
+  background-color: yellow;
+  p {
+    color: white;
+  }
+}
+
+.footer-center-items-button {
+  color: white;
+  background-color: transparent;
+  border: 0;
+  p {
+    margin-bottom: 0.5rem;
+  }
+}
+
+.footer-right-items-button {
+  color: white;
+  background-color: transparent;
+  border: 0;
+  p {
+    margin-bottom: 0.5rem;
+  }
 }

@@ -31,16 +31,24 @@ h1 {
 .testimony {
   width: 80%;
   padding: 1rem;
+  margin-left: 3rem;
   // background-color: red;
   // padding: 1rem;
 }
 
 .testimony-item {
-  // background-color: blue;
+  display: flex;
+  flex-direction: row;
 }
 
 .testimony-text p {
   color: black;
+}
+
+.testimony-pic {
+  height: 5rem;
+  width: 5rem;
+  margin-right: 1rem;
 }
 
 .testimonies {
@@ -48,4 +56,18 @@ h1 {
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+ol.carousel-indicators {
+  position: absolute;
+  bottom: 0;
+  margin: 0;
+  left: 0;
+  right: 0;
+  width: auto;
+  background-color: gray;
+}
+
+ol.carousel-indicators li.active {
+  background: black;
 }
