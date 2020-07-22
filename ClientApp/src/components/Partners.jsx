@@ -35,7 +35,7 @@ const Partners = () => {
           </button>
         </div>
       </div>
-      <div className="div-line"></div>
+      {/* <div className="div-line"></div> */}
     </>
   )
 }
