@@ -1,5 +1,11 @@
 .studies {
   background-color: #415da1;
+  margin: 1rem;
+  h1 {
+    color: white;
+    padding: 1.5rem;
+    align-items: center;
+  }
 }
 
 .movies {
@@ -10,11 +16,6 @@
 .movie {
   width: auto;
   padding: 1rem;
-}
-
-h1 {
-  text-align: center;
-  color: #ffffff;
 }
 
 .div-line {
