@@ -10,7 +10,6 @@ const CustomerPlans = () => {
       <div className="wrapper">
         <h1>Individuals and Families</h1>
         <h2>Life Insurance</h2>
-        <h2>additional heading to test pull request for matt.</h2>
         <div className="plan-content">
           <aside>
             <SubPlans />
