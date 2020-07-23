@@ -1,0 +1,39 @@
+.summary {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 1rem;
+}
+
+.panel-section {
+  // background-color: yellow;
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  margin: 5rem;
+  text-align: center;
+  p {
+    color: black;
+    padding: 2rem;
+  }
+}
+
+.summary-image {
+  background-color: lightgray;
+  border: none;
+  border-radius: 0%;
+  width: 15vw;
+  align-self: center;
+}
+
+.summary-button {
+  background-color: #8d0000;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 1;
+  transition: 0.3s;
+}
