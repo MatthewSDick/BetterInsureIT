@@ -1,6 +1,7 @@
-.hero {
+.teamhero {
   background-color: #0a2463;
   margin: 1rem;
+  padding-bottom: 1rem;
   display: flex;
   flex-direction: row;
 }
@@ -11,6 +12,29 @@
   padding: 1rem;
   -webkit-transform: scaleX(-1);
   transform: scaleX(-1);
+}
+
+.owner-info {
+  text-align: center;
+  p {
+    margin: 0rem;
+  }
+}
+
+.owner-info-button {
+  text-align: center;
+  button {
+    background-color: #8d0000;
+    border: none;
+    color: white;
+    // margin: 1rem;
+    padding: 8px 16px;
+    text-align: center;
+    font-size: 16px;
+    margin: 18px 18px;
+    opacity: 1;
+    transition: 0.3s;
+  }
 }
 
 .agent-info {

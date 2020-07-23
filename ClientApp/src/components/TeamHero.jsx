@@ -6,15 +6,16 @@ import agent_pic from '../images/Michael_Chair.png'
 const Hero = () => {
   return (
     <>
-      <div className="hero">
+      <div className="teamhero">
         <div className="teamhero-left">
           <div>
             <img className="agent-pic" src={agent_pic} />
           </div>
-          <div>
-            <p>Michael Gonzales, Owner Air Force Veteran</p>
+          <div className="owner-info">
+            <p>Michael Gonzales</p>
+            <p>Owner & Air Force Veteran</p>
           </div>
-          <div>
+          <div className="owner-info-button">
             <button>Schedule an Appointment</button>
           </div>
         </div>
