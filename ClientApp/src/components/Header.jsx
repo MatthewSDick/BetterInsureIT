@@ -13,9 +13,11 @@ const Header = () => {
           <div className="header-top-menu">
             <ul className="header-top-items">
               <li>
-                <button className="header-top-items-button">
-                  <p>Meet the team</p>
-                </button>
+                <Link to="/MeetTheTeam">
+                  <button className="header-top-items-button">
+                    <p>Meet the team</p>
+                  </button>
+                </Link>
               </li>
               <li>
                 <button className="header-top-items-button">
@@ -37,12 +39,14 @@ const Header = () => {
           <div className="header-bottom-menu">
             <ul className="header-bottom-items">
               <li>
-                <button
-                  onclick="myFunction()"
-                  className="header-bottom-items-button"
-                >
-                  Individuals & Families
-                </button>
+                <Link to="/plans">
+                  <button
+                    onclick="myFunction()"
+                    className="header-bottom-items-button"
+                  >
+                    Individuals & Families
+                  </button>
+                </Link>
               </li>
               <li>
                 <button className="header-bottom-items-button">
