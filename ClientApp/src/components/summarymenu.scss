@@ -1,25 +1,31 @@
-.summary {
+.summary-a {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: space-around;
   margin: 1rem;
+  // background-color: chartreuse;
 }
 
 .panel-section {
   // background-color: yellow;
   display: flex;
   flex-direction: column;
+  align-items: center;
   padding: 3rem;
+  margin: 2rem;
   p {
     color: black;
+    text-align: center;
   }
 }
 
 .summary-image {
   background-color: lightgray;
   border: none;
-  padding: 110px;
-  border-radius: 50%;
+  padding: 2rem;
+  border-radius: 90%;
+  width: 50%;
+  margin-bottom: 1.5rem;
 }
 
 .summary-button {

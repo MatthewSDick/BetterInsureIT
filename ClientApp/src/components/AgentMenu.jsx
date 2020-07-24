@@ -6,37 +6,37 @@ import family_pic from '../images/family.jpeg'
 const AgentMenu = () => {
   return (
     <>
-      <div className="summary">
+      <div className="agent-summary">
         {/* <div classname="panels"> */}
-        <div className="panel-section">
-          <button className="summary-image"></button>
+        <div className="agent-panel-section">
+          <button className="agent-summary-image"></button>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
             ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
             aliquip ex ea commodo consequat.
           </p>
-          <button className="summary-button">Learn More</button>
+          <button className="agent-summary-button">Learn More</button>
         </div>
-        <div className="panel-section">
-          <button className="summary-image"></button>
+        <div className="agent-panel-section">
+          <button className="agent-summary-image"></button>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
             ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
             aliquip ex ea commodo consequat.
           </p>
-          <button className="summary-button">Learn More</button>
+          <button className="agent-summary-button">Learn More</button>
         </div>
-        <div className="panel-section">
-          <button className="summary-image"></button>
+        <div className="agent-panel-section">
+          <button className="agent-summary-image"></button>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
             ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
             aliquip ex ea commodo consequat.
           </p>
-          <button className="summary-button">Learn More</button>
+          <button className="agent-summary-button">Learn More</button>
         </div>
       </div>
       {/* </div> */}

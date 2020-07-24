@@ -6,11 +6,11 @@ import family_pic from '../images/family.jpeg'
 const SummaryMenu = () => {
   return (
     <>
-      <div className="summary">
+      <div className="summary-a">
         {/* <div classname="panels"> */}
         <div className="panel-section">
           <button className="summary-image">
-            <i className="fas fa-user-friends"></i>
+            <i className="fas fa-user-friends fa-4x"></i>
           </button>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -22,7 +22,7 @@ const SummaryMenu = () => {
         </div>
         <div className="panel-section">
           <button className="summary-image">
-            <i class="fas fa-building"></i>
+            <i class="fas fa-building fa-4x"></i>
           </button>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -34,7 +34,7 @@ const SummaryMenu = () => {
         </div>
         <div className="panel-section">
           <button className="summary-image">
-            <i class="fas fa-user-alt"></i>
+            <i class="fas fa-user-alt fa-4x"></i>
           </button>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -46,7 +46,7 @@ const SummaryMenu = () => {
         </div>
         <div className="panel-section">
           <button className="summary-image">
-            <i class="fas fa-map-signs"></i>
+            <i class="fas fa-map-signs fa-4x"></i>
           </button>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
