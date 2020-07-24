@@ -9,7 +9,9 @@ const SummaryMenu = () => {
       <div className="summary">
         {/* <div classname="panels"> */}
         <div className="panel-section">
-          <button className="summary-image"></button>
+          <button className="summary-image">
+            <i className="fas fa-user-friends"></i>
+          </button>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
@@ -19,7 +21,9 @@ const SummaryMenu = () => {
           <button className="summary-button">Individuals & Families</button>
         </div>
         <div className="panel-section">
-          <button className="summary-image"></button>
+          <button className="summary-image">
+            <i class="fas fa-building"></i>
+          </button>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
@@ -29,7 +33,9 @@ const SummaryMenu = () => {
           <button className="summary-button">Business Owners</button>
         </div>
         <div className="panel-section">
-          <button className="summary-image"></button>
+          <button className="summary-image">
+            <i class="fas fa-user-alt"></i>
+          </button>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
@@ -39,7 +45,9 @@ const SummaryMenu = () => {
           <button className="summary-button">Turning 65 +</button>
         </div>
         <div className="panel-section">
-          <button className="summary-image"></button>
+          <button className="summary-image">
+            <i class="fas fa-map-signs"></i>
+          </button>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim

@@ -2,6 +2,7 @@
   "name": "BetterInsureIt",
   "private": "true",
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.14.0",
     "react-player": "^2.4.0"
   }
 }

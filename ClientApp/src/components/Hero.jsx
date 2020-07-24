@@ -24,17 +24,22 @@ const Hero = () => {
               Velit dignissim sodales ut eu sem. Purus ut faucibus pulvinar
               elementum integer.
             </p>
-            <p>
-              Congue nisi vitae suscipit tellus. Massa tincidunt dui ut ornare
-              lectus sit amet est. Sagittis id consectetur purus ut faucibus
-              pulvinar. Ut sem nulla pharetra diam sit. Tortor condimentum
-              lacinia quis vel. Ullamcorper morbi tincidunt ornare massa.
-              Pulvinar elementum integer enim neque volutpat. Lobortis
-              scelerisque fermentum dui faucibus in ornare. Faucibus a
-              pellentesque sit amet porttitor eget dolor morbi. Pellentesque
-              dignissim enim sit amet venenatis. Risus at ultrices mi tempus
-              imperdiet nulla malesuada.
-            </p>
+          </div>
+          <div className="hero-list">
+            <ul>
+              <li>
+                Item Number One - Item Number One - Item Number One - Item
+                Number One
+              </li>
+              <li>
+                Item Number One - Item Number One - Item Number One - Item
+                Number One
+              </li>
+              <li>
+                Item Number One - Item Number One - Item Number One - Item
+                Number One
+              </li>
+            </ul>
           </div>
           <div className="hero-buttons">
             <button>About US</button>

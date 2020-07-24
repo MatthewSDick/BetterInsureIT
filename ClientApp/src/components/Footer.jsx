@@ -75,7 +75,7 @@ const Footer = () => {
           <ul className="footer-right-items">
             <li>
               <button className="footer-right-items-button">
-                <p>Individuals and Families</p>
+                <p>Individuals & Families</p>
               </button>
             </li>
             <li>
@@ -90,7 +90,7 @@ const Footer = () => {
             </li>
             <li>
               <button className="footer-right-items-button">
-                <p>Planning and Guidance</p>
+                <p>Planning & Guidance</p>
               </button>
             </li>
           </ul>
